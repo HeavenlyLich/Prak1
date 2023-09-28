@@ -1,0 +1,15 @@
+C:\Users\Heavenly_lich\source\repos\PR1\PR1\bin\Debug\net7.0\PR1.exe
+C:\Users\Heavenly_lich\source\repos\PR1\PR1\bin\Debug\net7.0\PR1.deps.json
+C:\Users\Heavenly_lich\source\repos\PR1\PR1\bin\Debug\net7.0\PR1.runtimeconfig.json
+C:\Users\Heavenly_lich\source\repos\PR1\PR1\bin\Debug\net7.0\PR1.dll
+C:\Users\Heavenly_lich\source\repos\PR1\PR1\bin\Debug\net7.0\PR1.pdb
+C:\Users\Heavenly_lich\source\repos\PR1\PR1\obj\Debug\net7.0\PR1.csproj.AssemblyReference.cache
+C:\Users\Heavenly_lich\source\repos\PR1\PR1\obj\Debug\net7.0\PR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heavenly_lich\source\repos\PR1\PR1\obj\Debug\net7.0\PR1.AssemblyInfoInputs.cache
+C:\Users\Heavenly_lich\source\repos\PR1\PR1\obj\Debug\net7.0\PR1.AssemblyInfo.cs
+C:\Users\Heavenly_lich\source\repos\PR1\PR1\obj\Debug\net7.0\PR1.csproj.CoreCompileInputs.cache
+C:\Users\Heavenly_lich\source\repos\PR1\PR1\obj\Debug\net7.0\PR1.dll
+C:\Users\Heavenly_lich\source\repos\PR1\PR1\obj\Debug\net7.0\refint\PR1.dll
+C:\Users\Heavenly_lich\source\repos\PR1\PR1\obj\Debug\net7.0\PR1.pdb
+C:\Users\Heavenly_lich\source\repos\PR1\PR1\obj\Debug\net7.0\PR1.genruntimeconfig.cache
+C:\Users\Heavenly_lich\source\repos\PR1\PR1\obj\Debug\net7.0\ref\PR1.dll
